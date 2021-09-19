@@ -1,0 +1,27 @@
+.body_background {
+    background-image:url("Dog.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+#myCanvas {
+    border: 10px ridge darkviolet;
+    background-color: white;
+}
+
+#heading {
+    color:mediumblue;
+}
+
+.line {
+    height: 5px;
+    width: 650px;
+    background-color:black;
+    margin-top: -10px;
+}
+
+#play {
+    background-color: mediumblue;
+    color: white;
+    font-size: 18px;
+}
